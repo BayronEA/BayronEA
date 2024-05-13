@@ -3,8 +3,6 @@
 
 Ambisioso de adquirir conocimientos y tecnologías nuevas todos los días, tengo conocimientos variados, programación, ciencia de datos, redes y ciberseguridad, ingeniería del software, de todo un poco :)
 
-<br>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">
@@ -19,10 +17,11 @@ Ambisioso de adquirir conocimientos y tecnologías nuevas todos los días, tengo
 <hr width="36%" >
 
 <h3>My GitHub Stats</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BayronEA)](https://github.com/BayronEA/github-readme-stats)
-<br>
 
-
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BayronEA&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BayronEA&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="BayronEA" height="192px"/>
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
